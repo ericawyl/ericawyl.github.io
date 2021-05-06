@@ -13,7 +13,7 @@ excerpt: >
 feature_row:
   - title: "My Resume"
     excerpt: "Available for your perusal."
-    url: "/resume.pdf/"
+    url: "/assets/pdfs/ericawyl-resume.pdf"
     btn_class: "btn--primary"
     btn_label: "View"
 ---
