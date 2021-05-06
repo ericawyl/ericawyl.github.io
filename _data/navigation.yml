@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "About Me"
+    url: /aboutme/
+  - title: "Projects"
+    url: /projects/
+  - title: "Resume"
+    url: /resume.pdf/
