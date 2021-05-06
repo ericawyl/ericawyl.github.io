@@ -12,6 +12,7 @@ Below are some of the projects that I've worked on previously, both professional
 
 ## Apotcalypse
 
+_Cultivate Studios_  
 _DigiPen Institute of Technology Singapore_
 
 ![Apotcalypse gameplay](/assets/images/apotcalypse-gameplay.png)
@@ -20,6 +21,7 @@ Apotcalypse is a 3D real-time strategy and management game where the player aims
 
 ## Forge
 
+_Thumbs Two_  
 _DigiPen Institute of Technology Singapore_
 
 ![Forge gameplay](/assets/images/forge-logo-bg.png)
@@ -33,7 +35,7 @@ _Hong Wei Global Pte Ltd_
 
 ![Kidzania Singapore logo](/assets/images/kidzania-singapore.jpg)
 
-Developed on the inner workings of an ice-cream making machine for children to interact, play and learn with, at KidZania Singapore. For this project, I utilised Arduino to program the circuitry and electronic components of the machine.
+Developed on the inner workings of a physical ice-cream making machine for children to interact, play and learn with at KidZania Singapore. For this project, I utilised Arduino to program the circuitry and electronic components of the machine.
 
 
 ## Hotline Operator Simulation
