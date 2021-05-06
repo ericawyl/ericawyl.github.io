@@ -17,7 +17,9 @@ _DigiPen Institute of Technology Singapore_
 
 ![Apotcalypse gameplay](/assets/images/apotcalypse-gameplay.png)
 
-Apotcalypse is a 3D real-time strategy and management game where the player aims to save a magical potted tree from infectious, virulent mushrooms. Taking control of "Frulets", who can be ordered to perform certain tasks, the player can build a variety of structures which have unique effects against the infection.
+Apotcalypse is a 3D real-time strategy and management game where the player aims to save a magical potted tree from infectious, virulent mushrooms. Taking control of "Frulets", who can be ordered to perform certain tasks, the player can build a variety of structures which have unique effects against the infection.  
+
+As a graphics programmer, I worked on graphics-related features such as: skeletal animations, 3D model manager, particle systems, emissive maps, bloom and shadows.
 
 ## Forge
 
@@ -26,8 +28,9 @@ _DigiPen Institute of Technology Singapore_
 
 ![Forge gameplay](/assets/images/forge-logo-bg.png)
 
-A 2D action platforming game in which the player must step into the shoes of Berna, who must uncover the mystery behind the evil presence near her hometown. Take on robotic, animal-like foes and solve physics-based puzzles while harnessing the power of Berna's two forms.
+A 2D action platforming game in which the player must step into the shoes of Berna, who must uncover the mystery behind the evil presence near her hometown. Take on robotic, animal-like foes and solve physics-based puzzles while harnessing the power of Berna's two forms.  
 
+I was the technical lead for the team, and worked on the game engine and framework for the project. I also programmed several gameplay and graphical features, which include sprite animations and post-processing.
 
 ## Ice-Cream Machine Simulation for Children
 
