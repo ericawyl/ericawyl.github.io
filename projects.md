@@ -19,7 +19,10 @@ _DigiPen Institute of Technology Singapore_
 
 Apotcalypse is a 3D real-time strategy and management game where the player aims to save a magical potted tree from infectious, virulent mushrooms. Taking control of "Frulets", who can be ordered to perform certain tasks, the player can build a variety of structures which have unique effects against the infection.  
 
-As a graphics programmer, I worked on graphics-related features such as: skeletal animations, 3D model manager, particle systems, emissive maps, bloom and shadows.
+As a graphics programmer, I worked on graphics-related features such as: skeletal animations, 3D model manager, particle systems, emissive maps, bloom and shadows.  
+
+_Trailer link:_
+[Apotcalypse trailer](https://www.youtube.com/watch?v=-qMEVvWeruA)
 
 ## Forge
 
