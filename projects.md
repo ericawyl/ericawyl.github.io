@@ -21,6 +21,9 @@ Apotcalypse is a 3D real-time strategy and management game where the player aims
 
 As a graphics programmer, I worked on graphics-related features such as: skeletal animations, 3D model manager, particle systems, emissive maps, bloom and shadows.  
 
+_Game download link:_
+[Apotcalypse download](https://games.digipen.edu/games/apotcalypse)
+
 _Trailer link:_
 [Apotcalypse trailer](https://www.youtube.com/watch?v=-qMEVvWeruA)
 
