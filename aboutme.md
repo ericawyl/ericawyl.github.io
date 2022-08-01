@@ -28,11 +28,19 @@ _2013 - 2016_
 
 ## Work Experience
 
+**Besi**  
+Software Engineer  
+_May 2022 - _
+
 **Hong Wei Global Pte Ltd**  
 Software Engineer  
 _Feb 2016 - Mar 2016_
 
 ## Internships
+
+**Amaris.AI**  
+Software Developer Intern  
+_Sep 2021 - Feb 2022_
 
 **Hong Wei Global Pte Ltd**  
 Software Engineer Intern  
