@@ -30,7 +30,7 @@ _2013 - 2016_
 
 **Besi**  
 Software Engineer  
-_May 2022 - _
+_May 2022_
 
 **Hong Wei Global Pte Ltd**  
 Software Engineer  
