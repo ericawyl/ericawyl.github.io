@@ -30,7 +30,7 @@ _2013 - 2016_
 
 **Besi**  
 Software Engineer  
-_May 2022_
+_May 2022 - Present_
 
 **Hong Wei Global Pte Ltd**  
 Software Engineer  
@@ -45,7 +45,6 @@ _Sep 2021 - Feb 2022_
 **Hong Wei Global Pte Ltd**  
 Software Engineer Intern  
 _Dec 2015 - Feb 2016_
-
 
 ## Awards
 
